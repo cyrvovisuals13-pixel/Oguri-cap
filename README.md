@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img width="500" src="https://i.pinimg.com/736x/a0/c4/2d/a0c42d730933395915418f8e5698c5ed.jpg">
+<img width="500" src="https://i.pinimg.com/736x/a9/8a/fa/a98afa63873babc9779263a4f1508082.jpg">
 
 <br> Oguri Cap
  
@@ -59,10 +59,10 @@ Add to PATH environment variable
 
 ## Install Script
 ```bash original
-git clone https://github.com/DikaArdnt/Hisoka-Morou.git
-cd Hisoka-Morou
-```bash modified
 git clone https://github.com/cyrvovisuals13-pixel/Oguri-cap.git
+cd Oguri-Cap
+Original
+git clone https://github.com/DikaArdnt/Hisoka-Morou.git
 npm install
 ```
 
@@ -72,6 +72,16 @@ npm start
 or
 node index.js
 ```
+
+## 🚀 Fitur Utama
+* **Downloader:** TikTok, IG, YouTube, Twitter.
+* **Converter:** Sticker, ToImage, ToAudio.
+* **Tools:** Remove BG, Carbon, BMKG, dll.
+* **Group:** Kick, Add, Promote, Demote.
+* **Dll**
+## 📝 Catatan
+Script ini disimpan untuk tujuan arsip dan backup pengembangan.
+
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)    
