@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img width="500" src="https://dafunda.com/wp-content/uploads/2021/01/Karakter-Hunter-x-Hunter-Yang-Kuat-Menurut-Hisoka.jpg">
+<img width="500" src="https://i.pinimg.com/736x/a0/c4/2d/a0c42d730933395915418f8e5698c5ed.jpg">
 
 <br> Oguri Cap
  
@@ -13,7 +13,7 @@
 ## [![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com) [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
  
 </h1>
-<h4 align="center">Oguri Cao</h4>
+<h4 align="center">Oguri Cap</h4>
 
 
 <!-- Installation -->
@@ -58,9 +58,11 @@ Add to PATH environment variable
 
 
 ## Install Script
-```bash
+```bash original
 git clone https://github.com/DikaArdnt/Hisoka-Morou.git
 cd Hisoka-Morou
+```bash modified
+git clone https://github.com/cyrvovisuals13-pixel/Oguri-cap.git
 npm install
 ```
 
@@ -76,6 +78,9 @@ node index.js
 `[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)`
 
 
-## Support
+## Support original developer
 * [`PayPal`](https://www.paypal.me/Cakhaho)
 * [`Saweria`](https://saweria.co/DikaArdnt)
+
+
+<h4 align="center">Modified By Cero</h4>
