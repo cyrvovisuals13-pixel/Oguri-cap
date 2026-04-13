@@ -1,0 +1,8 @@
+node_modules/
+session/
+temp/
+package-lock.json
+*.zip
+*.deb
+*.log
+
